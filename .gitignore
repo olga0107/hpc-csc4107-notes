@@ -7,6 +7,6 @@ node_modules/
 *.pdf
 *.docx
 *.pptx
-lec01/
-lec02/
-scripts/
+/lec01/
+/lec02/
+/scripts/
