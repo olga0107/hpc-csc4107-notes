@@ -1,0 +1,12 @@
+node_modules/
+.vitepress/dist/
+.vitepress/cache/
+.DS_Store
+
+# 内部工作材料与课件原件，不对外发布
+*.pdf
+*.docx
+*.pptx
+lec01/
+lec02/
+scripts/
